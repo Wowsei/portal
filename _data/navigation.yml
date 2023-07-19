@@ -1,7 +1,7 @@
 #Please use the main menu items under the "text"
 # - text: About Us
 #   url: /about
-- text: トレーニング
+- text: Scrumトレーニング
   url: /services
 - text: 電車とバスの予約 
   url: /portfolios
