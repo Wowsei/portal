@@ -1,17 +1,17 @@
 #Please use the main menu items under the "text"
-- text: About Us
-  url: /about
-- text: Services
+# - text: About Us
+#   url: /about
+- text: トレーニング
   url: /services
-- text: Portfolios 
+- text: 電車とバスの予約 
   url: /portfolios
-- text: Blog
+- text: ブログ
   url: /blog
   submenu:
-  - text: Blog Details
+  - text: ブログ詳細
     url: /wordpress-hosting
   - text: 404
     url: /404
-- text: Contact Us
+- text: お問い合わせ
   url: /contact
  
