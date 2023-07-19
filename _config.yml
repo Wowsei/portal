@@ -9,7 +9,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.wowsei.com/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: danielteng
 github_username:  tengzhenyu
-site_logo: "logos_transparent.png"
+site_logo: "aha.png"
 
 permalink: "/:title"
 
