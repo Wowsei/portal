@@ -1,5 +1,5 @@
 title: "セレンディピティ株式会社"
-email: "tengzhenyu@wowsei.com"
+email: "daniel@wowsei.com"
 description: >- # this means to ignore newlines until "baseurl:"
   セレンディピティ株式会社の公式ウェブサイトへようこそ！東京に本社を構え、2つのサービスを提供しています。1つはDaniel Teng氏によるScrum AllianceのCSM＆CSPOコース。もう1つは日本人海外旅行者向けの旅行関連商品とサービスです。プロの成長と素晴らしい旅をお約束します。 
   #Write an awesome description for your new site here. You can edit this
@@ -20,9 +20,9 @@ plugins:
   - jekyll-paginate-v2
   - jekyll-archives
 
-# facebook_url: "https://www.facebook.com/tengzhenyu"
-# twitter_url: "https://twitter.com/danielteng"
-#instagram_url: "https://instagram.com/"
+facebook_url: "https://www.facebook.com/tengzhenyu"
+twitter_url: "https://twitter.com/danielteng"
+instagram_url: "https://instagram.com/tengzy"
 
 hero_image: "/assets/images/breadcrumb_bg.jpg"
 
