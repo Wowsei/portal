@@ -1,17 +1,27 @@
 #Please use the main menu items under the "text"
-# - text: About Us
-#   url: /about
+- text: About Us
+  url: /about
 - text: Scrumトレーニング
   url: /services
+  submenu:
+  - text: 目覚めの認定スクラムマスターコース（Awakening CSM）
+    url: https://www.danielteng.com/courses/aha-cspo/
+  - text: AHA認定スクラムプロダクトオーナーコース（AHA CSPO）
+    url: https://www.danielteng.com/courses/csm/
 - text: 電車とバスの予約 
   url: /portfolios
+  submenu:
+  - text: Xmoveアプリをダウンロード
+    url: http://www.danielteng.com
+  - text: 旅行代理店としてグループチケットを予約する
+    url: http://www.danielteng.com
+  - text: Xmove地上交通APIとの統合
+    url: http://www.danielteng.com
 - text: ブログ
   url: /blog
   submenu:
   - text: ブログ詳細
-    url: /wordpress-hosting
-  - text: 404
-    url: /404
+    url: http://www.danielteng.com
 - text: お問い合わせ
   url: /contact
  
