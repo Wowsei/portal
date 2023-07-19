@@ -1,13 +1,13 @@
-title: "Wowsei is a branding portal for Serendipity Company of Daniel Teng"
-email: "tengzhenyu@wowosei.com"
+title: "セレンディピティ株式会社"
+email: "tengzhenyu@wowsei.com"
 description: >- # this means to ignore newlines until "baseurl:"
-  Working towards the maturation of transcranial ultrasonic stimulation for human applications in cognitive neuroscience and beyond! 
+  セレンディピティ株式会社の公式ウェブサイトへようこそ！東京に本社を構え、2つのサービスを提供しています。1つはDaniel Teng氏によるScrum AllianceのCSM＆CSPOコース。もう1つは日本人海外旅行者向けの旅行関連商品とサービスです。プロの成長と素晴らしい旅をお約束します。 
   #Write an awesome description for your new site here. You can edit this
   #line in _config.yml. It will appear in your document head meta (for
   #Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.wowseic.om/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: tengzhenyu
+url: "https://www.wowsei.com/" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: danielteng
 github_username:  tengzhenyu
 site_logo: "logos_transparent.png"
 
@@ -20,8 +20,8 @@ plugins:
   - jekyll-paginate-v2
   - jekyll-archives
 
-#facebook_url: "https://www.facebook.com/tortoiztheme"
-twitter_url: "https://twitter.com/tengzhenyu"
+# facebook_url: "https://www.facebook.com/tengzhenyu"
+# twitter_url: "https://twitter.com/danielteng"
 #instagram_url: "https://instagram.com/"
 
 hero_image: "/assets/images/breadcrumb_bg.jpg"
