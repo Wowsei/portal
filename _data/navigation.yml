@@ -1,7 +1,7 @@
 #Please use the main menu items under the "text"
 - text: 当社について
   url: /about
-- text: Scrumトレーニング
+- text: スクラムコース
   url: /services
   submenu:
   - text: 目覚めの認定スクラムマスターコース（Awakening CSM）
