@@ -10,12 +10,12 @@
     url: https://www.danielteng.com/courses/csm/
   - text: BTS スタートアップ ワークショップ
     url: https://www.danielteng.com/courses/bts/
-- text: 電車とバスの予約 
+- text: 海外電車とバスの予約ビジネス 
   url: /portfolios
   submenu:
-  - text: Xmoveアプリをダウンロード
-    url: http://www.danielteng.com
   - text: 旅行代理店としてグループチケットを予約する
+    url: http://www.danielteng.com
+  - text: Xmoveアプリをダウンロード
     url: http://www.danielteng.com
   - text: Xmove地上交通APIとの統合
     url: http://www.danielteng.com
