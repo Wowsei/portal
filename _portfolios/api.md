@@ -2,7 +2,7 @@
 layout: portfolio
 title: "OTA向け海外電車とバスの検索＆予約API統合"
 icon: "/assets/images/icon_3.png"
-post_image: "/assets/images/services/journey.jpeg"
+post_image: "/assets/images/ground_transportation_cuntries.jpg"
 ---
 
 <h2>OTA向け海外電車とバスの検索＆予約API統合</h2>

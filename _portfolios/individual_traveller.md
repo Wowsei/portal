@@ -2,7 +2,7 @@
 layout: portfolio
 title: "個人旅行者向けの海外電車とバスの予約"
 icon: "/assets/images/icon_2.png"
-post_image: "/assets/images/recycle_experience.jpg"
+post_image: "/assets/images/ground_transportation.jpg"
 ---
 
 <h2>個人旅行者向けの海外電車とバスの予約</h2>

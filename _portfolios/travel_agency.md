@@ -2,7 +2,7 @@
 layout: portfolio
 title: "旅行代理店向けのグループ向け海外電車とバスの予約サービス"
 icon: "/assets/images/icon_1.png"
-post_image: "/assets/images/services/new_eyes_real_voyage.jpg"
+post_image: "/assets/images/ground_transportation_cuntries.jpg"
 ---
 
 <h2>旅行代理店向けのグループ向け海外電車とバスの予約サービス</h2>
