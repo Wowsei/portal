@@ -5,26 +5,51 @@ icon: "/assets/images/icon_1.png"
 post_image: "/assets/images/services/07.jpg"
 ---
 
-<h6>Strategy & Research Generator For All amet facilisis </h6>
-<p>11 time-saving pro tips for web designers working in Webflow11 <a href="#">time-saving pro</a> tips for web designers working in Webflow Consectetuer magna vivamus varius. Faucibus vestibulum faucibus elementum vulputate suscipit. Sit convallis litora nunc, vestibulum nibh tincidunt, in qui vel dui elit feugiat nulla, vehicula eos nec dolor conubia, aliquam proinEtiam id euismod. Purus ut dis feugiat, ac massa error leo sed fermentum, non sem velit eget arcu, lectus luctus congue leo dapibus tincidunt. Nunc vitae quis eu. Sit id ullamcorper semper ridiculus, accumsan augue ullamcorper eros viverra neque, libero est metus libero. Lacinia wisi feugiat tellus neque dui pellentesque, libero Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit est velit similique laborum, cumque aliquam porro dicta debitis repellat, tempore dignissimos, neque ab fuga voluptatibus. Earum numquam repellat sed perspiciatis ratione explicabo, odit! Repellendus voluptatibus nemo praesentium, id facere atque eum! sit nonummy tellus velit vivamus, eu sagittis gravida ut ante. Ut voluptas vestibulum leo pellentesque nulla, taciti congue, vitae nunc metus, imperdiet orci neque sed vestibulum, vestibulum magna ullamcorper posuere massa interdum </p>
-<h4>Risus sociis urna elementum ultricies justo quisque </h4> <p> mattis in eros facilisis mauris vestibulum sed, luctus proin nibh nonummy integer, nullam sit eget cum duis. Et sodales blandit, libero pede suscipit, tincidunt amet ultricies vitae dui tempor </p>
-<blockquote class="blockquote single-quote">
-  <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo non labore totam tempora sed neque repellat numquam eaque inventore! Iusto saepe ipsum, ex, commodi asperiores iure dolores amet dolorem eos voluptatum, aliquid incidunt non perferendis earum dignissimos quod iste accusantium deleniti.Risus sociis urna elementum ultricies justo quisque, mattis in eros facilisis mauris vestibulum sed, luctus proin nibh nonummy integer, nullam sit eget cum duis. Et sodales blandit, libero pede suscipit, tincidunt amet </p>
-</blockquote>
-<h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
-<p>eleifend hac porta faucibus aliquam eros, massa facilisis, sed pede maecenas porttitor id magnis. Ac sed aliquam in felis amet, adipiscing pede a amet faucibus sit, quis in et ullamcorper vel commodo. Volutpat ut pede sem ipsum non, sapien adipiscing, suspendisse neque, quis dolor donec dolor. Sit voluptatibus, scelerisque in semper lacus nostra, ac integer dolor mauris tempus eget</p>
+<h6>AHA認定スクラムプロダクトオーナーコース（AHA CSPO） </h6>
 
-Accumsan augue ullamcorper eros viverra neque, libero est metus libero. Lacinia wisi feugiat tellus neque dui pellentesque, libero Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit est velit similique laborum, cumque aliquam porro dicta debitis repellat, tempore dignissimos, neque ab fuga voluptatibus. Earum numquam repellat sed perspiciatis ratione explicabo, odit! Repellendus voluptatibus nemo praesentium
+製品開発には2つの重要な部分があります - **ディスカバリー（Discovery）**と**デリバリー(Delivery)**
 
-<b>augue ullamcorper eros viverra neque, libero est metus libero. Lacinia wisi feugiat tellus neque dui pellentesque, libero Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit est velit similique laborum, cumque aliquam porro dicta debitis repellat, tempore dignissimos, neque ab fuga voluptatibus. Earum numquam repellat sed perspiciatis ratione explicabo, odit! Repellendus voluptatibus nemo praesentiumaugue ullamcorper eros viverra neque, libero est metus libero. Lacinia wisi feugiat tellus neque dui pellentesque, libero Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit est velit similique laborum, cumque aliquam porro dicta debitis repellat, tempore dignissimos, neque ab fuga voluptatibus. Earum numquam repellat sed perspiciatis ratione explicabo, odit! Repellendus voluptatibus nemo praesentium  </b>
-<p>11 time-saving pro tips for web designers working in Webflow11 <a href="#">time-saving pro</a> tips for web designers working in Webflow Consectetuer magna vivamus varius. Faucibus vestibulum faucibus elementum vulputate suscipit. Sit convallis litora nunc, vestibulum nibh tincidunt, in qui vel dui elit feugiat nulla, vehicula eos nec dolor conubia, aliquam proinEtiam id euismod. Purus ut dis feugiat, ac massa error leo sed fermentum, non sem velit eget arcu, lectus luctus congue leo dapibus tincidunt. Nunc vitae quis eu. Sit id ullamcorper semper ridiculus, accumsan augue ullamcorper eros viverra neque, libero est metus libero. Lacinia wisi feugiat tellus neque dui pellentesque, libero Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit est velit similique laborum, cumque aliquam porro dicta debitis repellat, tempore dignissimos, neque ab fuga voluptatibus. Earum numquam repellat sed perspiciatis ratione explicabo, odit! Repellendus voluptatibus nemo praesentium, id facere atque eum! sit nonummy tellus velit vivamus, eu sagittis gravida ut ante. Ut voluptas vestibulum leo pellentesque nulla, taciti congue, vitae nunc metus, imperdiet orci neque sed vestibulum, vestibulum magna ullamcorper posuere massa interdum </p>
-<h4>Risus sociis urna elementum ultricies justo quisque </h4> <p> mattis in eros facilisis mauris vestibulum sed, luctus proin nibh nonummy integer, nullam sit eget cum duis. Et sodales blandit, libero pede suscipit, tincidunt amet ultricies vitae dui tempor </p>
-<blockquote class="blockquote single-quote">
-  <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo non labore totam tempora sed neque repellat numquam eaque inventore! Iusto saepe ipsum, ex, commodi asperiores iure dolores amet dolorem eos voluptatum, aliquid incidunt non perferendis earum dignissimos quod iste accusantium deleniti.Risus sociis urna elementum ultricies justo quisque, mattis in eros facilisis mauris vestibulum sed, luctus proin nibh nonummy integer, nullam sit eget cum duis. Et sodales blandit, libero pede suscipit, tincidunt amet </p>
-</blockquote>
-<h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
-<p>eleifend hac porta faucibus aliquam eros, massa facilisis, sed pede maecenas porttitor id magnis. Ac sed aliquam in felis amet, adipiscing pede a amet faucibus sit, quis in et ullamcorper vel commodo. Volutpat ut pede sem ipsum non, sapien adipiscing, suspendisse neque, quis dolor donec dolor. Sit voluptatibus, scelerisque in semper lacus nostra, ac integer dolor mauris tempus eget</p>
+- **ディスカバリー**とは、指数的な成長を目指すアイデアを探求し、アイデアを検証し、繰り返し改善し、そしてこれらのアイデアを広めることを意味します。
+- **デリバリー**とは、開発チームとアイデアの実装を確実にすること、段階的かつ反復的にリリースを行うこと、可能な限り早くリリースするためにMVP（最小限の価値を持つ製品）を特定することを意味します。 
 
-Accumsan augue ullamcorper eros viverra neque, libero est metus libero. Lacinia wisi feugiat tellus neque dui pellentesque, libero Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit est velit similique laborum, cumque aliquam porro dicta debitis repellat, tempore dignissimos, neque ab fuga voluptatibus. Earum numquam repellat sed perspiciatis ratione explicabo, odit! Repellendus voluptatibus nemo praesentium
+私たちはDiscoveryとDeliveryのプロセス、ツール、実践、活動（ミーティング）について学び、それらをScrumプロダクトオーナーとしてどのように活用するかを学びます。
 
-<b>augue ullamcorper eros viverra neque, libero est metus libero. Lacinia wisi feugiat tellus neque dui pellentesque, libero Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit est velit similique laborum, cumque aliquam porro dicta debitis repellat, tempore dignissimos, neque ab fuga voluptatibus. Earum numquam repellat sed perspiciatis ratione explicabo, odit! Repellendus voluptatibus nemo praesentiumaugue ullamcorper eros viverra neque, libero est metus libero. Lacinia wisi feugiat tellus neque dui pellentesque, libero Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit est velit similique laborum, cumque aliquam porro dicta debitis repellat, tempore dignissimos, neque ab fuga voluptatibus. Earum numquam repellat sed perspiciatis ratione explicabo, odit! Repellendus voluptatibus nemo praesentium  </b>
+![http://www.danielteng.com/wp-content/uploads/2018/06/discovery-delivery-1.png](http://www.danielteng.com/wp-content/uploads/2018/06/discovery-delivery-1.png)
+
+このコースの中で、以下の質問に答えようとします：
+
+- プロダクトオーナーとして、どのような役立つ製品開発のプロセス、ツール、実践がありますか？期待される成果は何ですか？よくある落とし穴は何ですか？
+- なぜこれらの（プロセス、ツール、実践、活動）が役立つのでしょうか？
+- これらには誰が関与するのでしょうか？
+- これらはいつ行われるのでしょうか？
+- 新しい製品をどのように始動させるのでしょうか？アイデアからプロダクトバックログアイテムへの流れはどのようになっていますか？これらはどのように進行されますか？ 
+
+## アジェンダ
+
+### 第1日目 ディスカバリーとデリバリーのバランス
+
+- シミュレーションを交えてプロダクトオーナーの役割に深く入る
+- プロダクトディスカバリー
+  - ソフトイノベーション「Soft Innovation」 vs ハードイノベーション「Hard Innovation」
+  - エッジクラフト「Edge Craft」によるソフトイノベーション
+  - エッジクラフト「Edge Craft」シンキングでの効果的なアイデアのブレインストーミング
+  - インパクトマッピングを用いてプロダクトのアイデアを洗練する
+
+### 第2日目 - 正しいイット (アイデア) 
+
+- プロダクトディスカバリー
+  - ビジネスの目標
+  - 顧客の問題を特定する
+  - プリトタイピングで「顧客の問題」を検証 / 否定する
+  - ソースから優先順位を付ける
+  - デザインスタジオによる共同ソリューションデザイン
+  - 構築的なフィードバックを引き出す
+
+第3日目 - プロダクトデリバリ
+
+- 共同のストーリーマッピングによるプロダクトバックログの作成/洗練
+- バックログのスライシングとMVP
+- プロダクトバックログの効果的な作成
+- ユーザーストーリーとストーリースプリッティングのテクニック
+- 仕様書を使って理解を共有する
+- スクラムのセレモニーのシミュレーションとPOの参加方法 
