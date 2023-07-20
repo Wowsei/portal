@@ -1,6 +1,6 @@
 ---
 layout: service
-title: "AHA CSPO"
+title: "AHA認定スクラムプロダクトオーナーコース（AHA CSPO）"
 icon: "/assets/images/icon_1.png"
 post_image: "/assets/images/services/new_eyes_real_voyage.jpg"
 ---
@@ -13,7 +13,6 @@ post_image: "/assets/images/services/new_eyes_real_voyage.jpg"
 * **デリバリー**とは、開発チームとアイデアの実装を確実にすること、段階的かつ反復的にリリースを行うこと、可能な限り早くリリースするためにMVP（最小限の価値を持つ製品）を特定することを意味します。 
 
 私たちはDiscoveryとDeliveryのプロセス、ツール、実践、活動（ミーティング）について学び、それらをScrumプロダクトオーナーとしてどのように活用するかを学びます。
-
 
 このコースの中で、以下の質問に答えようとします：
 

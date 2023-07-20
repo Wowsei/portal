@@ -5,7 +5,7 @@
   url: /services
   submenu:
   - text: 目覚めの認定スクラムマスターコース（Awakening CSM）
-    url: https://www.danielteng.com/courses/aha-cspo/
+    url: /services/awakening_csm
   - text: AHA認定スクラムプロダクトオーナーコース（AHA CSPO）
     url: /services/aha_cspo
   - text: BTS スタートアップ ワークショップ
