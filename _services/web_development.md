@@ -1,6 +1,6 @@
 ---
 layout: service
-title: "Web Development"
+title: "Awakening CSM"
 icon: "/assets/images/icon_2.png"
 post_image: "/assets/images/services/08.jpg"
 ---
