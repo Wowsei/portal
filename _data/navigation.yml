@@ -13,12 +13,12 @@
 - text: 海外電車とバスの予約ビジネス 
   url: /portfolios
   submenu:
-  - text: 旅行代理店としてグループチケットを予約する
-    url: http://www.danielteng.com
-  - text: Xmoveアプリをダウンロード
-    url: http://www.danielteng.com
-  - text: Xmove地上交通APIとの統合
-    url: http://www.danielteng.com
+  - text: 旅行代理店向けの海外電車とバスの予約サービス
+    url: /portfolios/travel_agency
+  - text: 個人旅行者向けの海外電車とバスの予約
+    url: /portfolios/individual_traveller
+  - text: OTA向け海外電車とバスの検索＆予約API統合
+    url: /portfolios/api
 - text: ブログ
   url: /blog
   submenu:
