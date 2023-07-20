@@ -2,12 +2,12 @@
 layout: service
 title: "AHA CSPO"
 icon: "/assets/images/icon_1.png"
-post_image: "/assets/images/services/07.jpg"
+post_image: "/assets/images/services/new_eyes_real_voyage.jpg"
 ---
 
 <h2>AHA認定スクラムプロダクトオーナーコース（AHA CSPO）</h2>
 
-製品開発には2つの重要な部分があります * **ディスカバリー（Discovery）**と**デリバリー(Delivery)**
+製品開発には2つの重要な部分があります - **ディスカバリー（Discovery）**と**デリバリー(Delivery)**
 
 * **ディスカバリー**とは、指数的な成長を目指すアイデアを探求し、アイデアを検証し、繰り返し改善し、そしてこれらのアイデアを広めることを意味します。
 * **デリバリー**とは、開発チームとアイデアの実装を確実にすること、段階的かつ反復的にリリースを行うこと、可能な限り早くリリースするためにMVP（最小限の価値を持つ製品）を特定することを意味します。 
