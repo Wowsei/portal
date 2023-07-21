@@ -1,6 +1,6 @@
 ---
 layout: service
-title: "目覚めの認定スクラムマスターコース（Awakening CSM）"
+title: "目覚めの認定スクラムマスターコース（Awakening CSM）|セレンディピティ株式会社"
 icon: "/assets/images/icon_2.png"
 post_image: "/assets/images/services/recycle_experience.jpg"
 ---
