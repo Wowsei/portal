@@ -71,5 +71,6 @@ Xmoveアプリは、日本の旅行者の出境旅行をより快適でスムー
 * [ミラノセントラル駅](https://www.g2rail.com/help/ja/stations/milano-centrale)
 * [ヴェネツィア サンタルチア中央駅](https://www.g2rail.com/help/ja/stations/venezia-s.-lucia)
 * [フィレンツェサンタマリアノヴェッラ中央駅](https://help.g2rail.com/ja/stations/firenze-santa-maria-novella-smn)
+* [ミラノ マルペンサ アエロポルト](https://help.g2rail.com/ja/stations/malpensa-aeroporto)
 
 
