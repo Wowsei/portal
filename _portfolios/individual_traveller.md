@@ -19,7 +19,7 @@ xmoveapp.comは、便利で信頼性の高い地面交通の予約サービス�
 
 ### Xmoveアプリ
 
-![/assets/images/xmove.jpg](Xmove App)
+<img src="{{relative_url}}/assets/images/xmove.jpg" class="img-fluid" alt="Xmove App">
 
 Xmoveアプリは、日本の旅行者向けにデザインされた地面交通予約アプリです。欧州、アジア、北アメリカ、南アメリカなど、世界中の60以上の国々で列車、バス、フェリーのチケットを簡単に予約できる便利なサービスを提供しています。
 
