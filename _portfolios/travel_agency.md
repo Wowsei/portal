@@ -1,6 +1,6 @@
 ---
 layout: portfolio
-title: "旅行代理店向けのグループ向け海外電車とバスの予約サービス|セレンディピティ株式会社"
+title: "旅行代理店向けのグループ向け海外電車とバスの予約サービス"
 icon: "/assets/images/icon_1.png"
 post_image: "/assets/images/ground_transportation_cuntries.jpg"
 ---

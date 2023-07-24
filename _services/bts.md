@@ -1,6 +1,6 @@
 ---
 layout: service
-title: "BTSスタートアップワークショップ|セレンディピティ株式会社"
+title: "BTSスタートアップワークショップ"
 icon: "/assets/images/icon_3.png"
 post_image: "/assets/images/services/journey.jpeg"
 ---
