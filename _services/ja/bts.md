@@ -3,6 +3,7 @@ layout: service
 title: "BTSスタートアップワークショップ"
 icon: "/assets/images/icon_3.png"
 post_image: "/assets/images/services/journey.jpeg"
+lang: ja
 ---
 
 <h2>BTSスタートアップワークショップ</h2>

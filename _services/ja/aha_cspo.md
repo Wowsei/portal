@@ -3,6 +3,7 @@ layout: service
 title: "AHA認定スクラムプロダクトオーナーコース（AHA CSPO）"
 icon: "/assets/images/icon_1.png"
 post_image: "/assets/images/services/new_eyes_real_voyage.jpg"
+lang: ja
 ---
 
 <h2>AHA認定スクラムプロダクトオーナーコース（AHA CSPO）</h2>
