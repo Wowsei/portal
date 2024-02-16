@@ -8,51 +8,49 @@ lang: en
 
 <h2>BTS Startup Workshop</h2>
 
-英文名称は「BreakThrough Starter」であり、略称は「BTS」です。
+The English name is "Break Through Starter" and the abbreviation is "BTS".
 
-現在、台北、北京、上海、深圳のコースを予定しています。
+This course focuses on the process of leveraging technology to advance your business. Evolve your business with goals, strategies, methodologies, toolsets, technology, and more.
 
-このコースでは、技術を活用してビジネスを促進する過程に焦点を当てています。目標、戦略、手法、ツールセット、技術などによるビジネスの進化を実現します。
+G2Rail is a project launched over the past three years that provides ground transportation booking services for international travelers. As a team member with a technical background, this experience made me deeply reflect on the role of technology.
 
-G2Railは過去3年間で立ち上げたプロジェクトであり、海外旅行者向けに地上交通の予約サービスを提供しています。技術バックグラウンドを持つチームメンバーとして、この経験から技術の役割について深い反省を行いました。
+I realized that it is not enough for engineers to learn the basics well and master programming languages; they also need to ``breakthrough'' in business. Technology should be the starting point, penetrate business, and ultimately drive the evolution of business through technology, constantly drawing out innovation at the boundary between business and technology.
 
-技術者は基礎をしっかりと学び、プログラミング言語をマスターするだけで十分ではなく、ビジネスに「打穿」していく必要があると気づきました。技術を起点にし、ビジネスを貫通させ、最終的には技術によってビジネスの進化を促進し、ビジネスと技術の境界で常にイノベーションを引き出すべきです。
+This training is a three-day program in which participants practice developing business applications to realize business intent. This process is part of the G2Rail real-world experience.
 
-このトレーニングでは、3日間のプログラムを通じて、参加者がビジネスの意図を具現化するためのビジネスアプリケーションの開発を実践します。このプロセスは、G2Railの実際の経験の一部です。
+#### Course Format and Content
 
-#### 講座形式と内容
+This course begins on the evening of the 0th day. Participants will help form teams and go through eight sprints (some of them working late into the night). After completing the course, participants will be able to develop and release a travel industry app from scratch, or have already released one.
 
-本講座は、第0日の夜から始まります。参加者はチームを組む手助けを行い、8つのスプリントを経験します（中には夜遅くまで取り組む方もいるかもしれません）。講座終了後、参加者は旅行業界のアプリをゼロから開発し、リリースすることができるか、もしくはすでにリリースしていることでしょう。
+For example, in the first sprint, it is necessary to realize "Germany Xintian Castle Admission Ticket Reservation". Through the business-to-technical process, participants will gain an introductory understanding of industry knowledge and an introductory knowledge of related technologies to develop apps using Flutter. At the same time, you can gain business-based experience in order to think about what role technology plays in business.
 
-例を挙げると、最初のスプリントでは、「ドイツ・新天鵞絨城入場券予約」を実現する必要があります。ビジネスから技術に至るまでのプロセスを通じて、参加者は業界の知識を初歩的に理解し、Flutterを使用してアプリを開発する関連技術について初歩的な知識を得ることができます。同時に、技術がビジネスにどのような役割を果たすかを考えるために、ビジネスを起点にする経験を積むことができます。
+Over the next eight sprints, you will have a three-day commercial app iterative experience through series modules such as 'Swiss Passport Booking', 'Switzerland Point-to-Point Train Booking', 'Building a Growth Funnel' and 'Expanding to International Markets'. . You can gain experience in realizing your business while constantly tackling challenges and learning from them.
 
-続く8つのスプリントでは、「スイス・パスポート予約」「スイス・ポイントツーポイント列車予約」「成長ファネルの構築」「国際市場への展開」といったシリーズモジュールを通じて、3日間の商業アプリの繰り返し体験をします。常に課題に取り組み、そこから学びながらビジネスを実現する経験を積むことができます。
+#### Agenda
 
-#### アジェンダ
+##### Day 0 night
 
-##### 第0日目夜
+* Building a cross-functional feature team
+* Business introduction
+* Refinement of initial product backlog
+* Sprint 1 planning meeting
 
-* クロスファンクショナルなフィーチャーチームの構築
-* ビジネス紹介
-* 初期のプロダクトバックログのリファイメント
-* スプリント1の計画ミーティング
+##### Day 1 
 
-##### 第1日目 
+* How to make your company profitable from day one
+* How to release App to Android and Apple app stores
+* How to incorporate online payments into your app
+* Building a basic Flutter application
 
-* 初日からあなたの会社が収益を上げる方法
-* Flutter AppをAndroidとAppleアプリストアにリリースする方法
-* アプリにオンライン決済を組み込む方法
-* 基本的なFlutterアプリケーションの構築
+##### Day 2 
 
-##### 第2日目 
+* How to respond to emergent situations on the industrial road
+* One is one, how to connect more products
+* How to explore technology that will help your business grow
+* How to evaluate user data
 
-* 创业路上の急な状況に対応する方法
-* 一を以って十を知る、より多くの製品を接続する方法
-* ビジネスの成長を助ける技術を探求する方法
-* ユーザーデータを評価する方法
+##### Day 3 
 
-##### 第3日目 
-
-* 低コストでの競争上の優位を築く方法
-* ビジネスの"骨組み"を見つける方法
-* ビジネスの"血液"を見つける方法
+* How to build a competitive advantage with lower costs
+* How to find the "bones" of your business
+* How to find the "blood" of your business

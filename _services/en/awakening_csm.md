@@ -8,23 +8,13 @@ lang: en
 
 <h2>Awakening Certified Scrum Master Course (Awakening CSM)</h2>
 
-製品開発は、**ディスカバリー（Discovery）**と**デリバリー（Delivery）**の二つの部分に分かれて、交互に進行します。探求とは、指数的な成長のアイデアを見つける方法や、これらの創造的なアイデアをソーシャルネットワークを利用して拡散・拡大させる方法を指します。デリバリーとは、線形的な成長を確保する方法や、アイデアを効率的に実装する方法、検証する方法、実施する方法、MVP（最小限の価値を持つ製品）を見つける方法、Scrumなどのアジャイル方法と組み合わせる方法、そして反復する方法を指します。これらは相互補完的で切り離せない二つの部分です。CSMコースでは、デリバリーの要素に重点を置きつつ、製品の持続的な革新を確保するための組織的要素も探求します。
+Product development is divided into two parts: **Discovery** and **Delivery**, which proceed alternately. Exploration refers to how to find ideas for exponential growth and how to spread and scale these creative ideas using social networks. Delivery is about how to ensure linear growth, how to efficiently implement an idea, how to validate it, how to execute it, how to find an MVP (minimum value product), and agile methods such as Scrum. It refers to the method of combining and repeating. These are two complementary and inseparable parts. The CSM course focuses on the elements of delivery, while also exploring the organizational elements of ensuring sustained product innovation.
 
 ![http://www.danielteng.com/wp-content/uploads/2018/06/discovery-delivery-1.png](http://www.danielteng.com/wp-content/uploads/2018/06/discovery-delivery-1.png)
 
-#### アジェンダ
+#### Agenda
 
-##### 第1日目 繰り返しとセレンディピティ
-
-* Scrumとアジャイルの概要
-* 有能なチームの要素
-* Scrumマスターツールボックス - ガイダンステクニック＋ナッジ
-* 製品開発における一般的な認知バイアス
-* 繰り返し（イテレーション）
-* セレンディピティ
-* セレンディピティと持続的な改善を直接的にバランスさせる方法
-
-##### Day 1 Iteration & Serendipity
+##### Day 1: Iteration & Serendipity
 
 * Scrum and Agile Overview
 * Elements of capable team
@@ -34,15 +24,6 @@ lang: en
 * Serendipity
 * How to directly balance between Serendipity (opportunity) and continuous improvement
 
-##### 第2日目 組織と製品
-
-* 健康なプロダクトバックログを維持する方法
-* ユーザーストーリーマップとインパクトマップを通じて要件を分析、順序付け、スライスする方法
-* 効果的なスクラムバックログリファインメントミーティングを進める方法
-* 効果的なスクラム計画ミーティングを進める方法
-* 継続的なリリースの習慣
-* ダイナミックなスクラム振り返りミーティングを進める方法
-
 ##### Day 2 Organization & Product
 
 * How to maintain a healthy Product Backlog
@@ -51,14 +32,6 @@ lang: en
 * How to facilitate an effective Scrum planning meeting
 * The habit of continuous shipping
 * How to facilitate dynamic Scrum retrospective meetings
-
-##### 第3日目 組織と製品
-
-* ユーザーストーリーの分割とスライシング
-* 具体例による仕様（Specification by Example）
-* 受け入れ基準
-* スクラムミーティングのヒントとよくある質問
-* コース振り返り 
 
 ##### Day 3 Rinse & Repeat
 
