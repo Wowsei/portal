@@ -6,11 +6,11 @@
 				<div class="col-lg-4 col-md-6 col-12">
 					<div class="widget widegt_about mb-md-4 mb-lg-0">
 						<div class="widget_title">
-							<img src="{{site.site_logo}}" class="img-fluid" alt="{{site.title}}"/>
+							<img src="{{site.site_logo}}" class="img-fluid" alt="{{site.title[site.active_lang]}}"/>
 						</div>
 						<!-- <p>Quisque orci nisl, viverra et sem ac, tincidunt egestas massa. Morbi est arcu, hendrerit ac vehicula condimentum, euismod nec tortor praesent consequat urna.</p> -->
 						<ul class="social">
-							{% if site.facebook_url %}
+							<!-- {% if site.facebook_url %}
 							<li><a href="{{site.facebook_url}}" target="__blank"><i class="fab fa-facebook-f"></i></a></li>
 							{% endif %}
 							{% if site.twitter_url %}
@@ -18,7 +18,10 @@
 							{% endif %}
 							{% if site.instagram_url %}
 							<li><a href="{{site.instagram_url}}" target="__blank"><i class="fab fa-instagram"></i></a></li>
-							{% endif %}
+							{% endif %} -->
+							{% for tongue in site.languages %}
+								<a {% if tongue == site.active_lang %}style="font-weight: bold;"{% endif %} {% static_href %}href="{% if tongue == site.default_lang %}{{site.baseurl}}{{page.url}}{% else %}{{site.baseurl}}/{{ tongue }}{{page.url}}{% endif %}"{% endstatic_href %} >{{ tongue }}</a>{%- if forloop.last == false -%}{{" "}}{{ site.langsep }}{%- endif -%}
+							{% endfor %}
 						</ul>
 					</div>
 				</div>

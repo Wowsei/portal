@@ -1,0 +1,35 @@
+#Please use the main menu items under the "text"
+- text: About Us
+  url: /about
+- text: Scrum Courses
+  url: /services
+  submenu:
+  - text: Awakening CSM
+    url: /services/awakening_csm
+  - text: AHA CSPO
+    url: /services/aha_cspo
+  - text: BTS Startup Workshop
+    url: /services/bts
+- text: Overseas Train and Bus Reservation Services 
+  url: /portfolios
+  submenu:
+  - text: Travel Agency
+    url: /portfolios/travel_agency
+  - text: Individual Traveller
+    url: /portfolios/individual_traveller
+  - text: API Integration
+    url: /portfolios/api
+- text: Blog
+  url: /blog
+  submenu:
+  - text: Blogs
+    url: http://www.danielteng.com
+- text: Contact
+  url: /contact
+- text: English/日本語
+  submenu:
+  - text: 日本語
+    url: https://www.wowsei.com/ja/
+  - text: English
+    url: https://www.wowsei.com/
+ 

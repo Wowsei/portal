@@ -1,0 +1,35 @@
+#Please use the main menu items under the "text"
+- text: 当社について
+  url: /ja//about
+- text: スクラムコース
+  url: /ja/services
+  submenu:
+  - text: 目覚めの認定スクラムマスターコース（Awakening CSM）
+    url: /ja/services/awakening_csm
+  - text: AHA認定スクラムプロダクトオーナーコース（AHA CSPO）
+    url: /ja/services/aha_cspo
+  - text: BTS スタートアップ ワークショップ
+    url: /ja/services/bts
+- text: 海外電車とバスの予約ビジネス 
+  url: /ja/portfolios
+  submenu:
+  - text: 旅行代理店向けの海外電車とバスの予約サービス
+    url: /ja/portfolios/travel_agency
+  - text: 個人旅行者向けの海外電車とバスの予約
+    url: /ja/portfolios/individual_traveller
+  - text: OTA向け海外電車とバスの検索＆予約API統合
+    url: /ja/portfolios/api
+- text: ブログ
+  url: /ja/blog
+  submenu:
+  - text: ブログ詳細
+    url: http://www.danielteng.com
+- text: お問い合わせ
+  url: /ja/contact
+- text: English/日本語
+  submenu:
+  - text: English
+    url: https://www.wowsei.com/
+  - text: 日本語
+    url: https://www.wowsei.com/ja/
+ 
