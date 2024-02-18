@@ -9,40 +9,40 @@
 			</div>
 			<div class="col-lg-6">
 				<div class="section_title">
-					<h2>お問い合わせください</h2>
-					<p>スクラムコースや旅行ビジネスの連携に関するご質問がございましたら、お気軽にお問い合わせください。</p>
+					<h2>{{site.data.data.contact}}</h2>
+					<p>{{site.data.data.contact_us}}</p>
 				</div>
 				<div class="contact_form">
 					<form method="post" action="https://formsubmit.io/send/daniel@wowsei.com">
 						<div class="row">
 							<div class="col-lg-6">
 								<div class="form_group">
-									<input type="text" class="form_control" placeholder="名" name="name" required>
+									<input type="text" class="form_control" placeholder="{{site.data.data.first_name}}" name="name" required>
 								</div>
 							</div>
 							<div class="col-lg-6">
 								<div class="form_group">
-									<input type="text" class="form_control" placeholder="姓" name="name" required>
+									<input type="text" class="form_control" placeholder="{{site.data.data.last_name}}" name="name" required>
 								</div>
 							</div>
 							<div class="col-lg-6">
 								<div class="form_group">
-									<input type="email" class="form_control" placeholder="メールアドレス" name="email" required>
+									<input type="email" class="form_control" placeholder="{{site.data.data.email}}" name="email" required>
 								</div>
 							</div>
 							<div class="col-lg-6">
 								<div class="form_group">
-									<input type="text" class="form_control" placeholder="電話番号" name="phone" required>
+									<input type="text" class="form_control" placeholder="{{site.data.data.telephone_number}}" name="phone" required>
 								</div>
 							</div>
 							<div class="col-lg-12">
 								<div class="form_group">
-									<textarea class="form_control" placeholder="メッセージ" name="message"></textarea>
+									<textarea class="form_control" placeholder="{{site.data.data.message}}" name="message"></textarea>
 								</div>
 							</div>
 							<div class="col-lg-12">
 								<div class="button_box">
-									<button class="deneb_btn" type="submit">送信する</button>
+									<button class="deneb_btn" type="submit">{{site.data.data.send}}</button>
 								</div>
 							</div>
 						</div>

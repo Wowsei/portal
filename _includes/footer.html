@@ -19,30 +19,27 @@
 							{% if site.instagram_url %}
 							<li><a href="{{site.instagram_url}}" target="__blank"><i class="fab fa-instagram"></i></a></li>
 							{% endif %} -->
-							{% for tongue in site.languages %}
-								<a {% if tongue == site.active_lang %}style="font-weight: bold;"{% endif %} {% static_href %}href="{% if tongue == site.default_lang %}{{site.baseurl}}{{page.url}}{% else %}{{site.baseurl}}/{{ tongue }}{{page.url}}{% endif %}"{% endstatic_href %} >{{ tongue }}</a>{%- if forloop.last == false -%}{{" "}}{{ site.langsep }}{%- endif -%}
-							{% endfor %}
 						</ul>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12">
 					<div class="widget widget_link">
 						<div class="widget_title">
-							<h4>必要なリンク</h4>
+							<h4>{{site.data.data.links}}</h4>
 						</div>
 						<ul>
-							<li><a href="about">当社について</a></li>
-							<li><a href="services">スクラムコース</a></li>
-							<li><a href="portfolios">海外電車とバスの予約ビジネス</a></li>
-							<li><a href="blog">ブログ</a></li>
-							<li><a href="contact">お問い合わせ</a></li>
+							<li><a href="about">{{site.data.data.about_us}}</a></li>
+							<li><a href="services">{{site.data.data.courses}}</a></li>
+							<li><a href="portfolios">{{site.data.data.train_busines_title}}</a></li>
+							<li><a href="blog">{{site.data.data.blog}}</a></li>
+							<li><a href="contact">{{site.data.data.contact}}</a></li>
 						</ul>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12">
 					<div class="widget widget_contact">
 						<div class="widget_title">
-							<h4>お問い合わせ</h4>
+							<h4>{{site.data.data.contact}}</h4>
 						</div>
 						<div class="contact_info">
 							<div class="single_info">
@@ -50,7 +47,7 @@
 									<i class="fas fa-phone-alt"></i>
 								</div>
 								<div class="info">
-									<p><a href="tel:+810361616496">+81 03 6161 6496</a></p>
+									<p><a href="{{site.data.data.phone_href}}">{{site.data.data.phone}}</a></p>
 								</div>
 							</div>
 							<div class="single_info">
@@ -58,7 +55,7 @@
 									<i class="fas fa-envelope"></i>
 								</div>
 								<div class="info">
-									<p><a href="mailto:daniel@wowsei.com">daniel@wowsei.com</a></p>
+									<p><a href="mailto:info@wowsei.com">info@wowsei.com</a></p>
 								</div>
 							</div>
 							<div class="single_info">
@@ -66,7 +63,7 @@
 									<i class="fas fa-map-marker-alt"></i>
 								</div>
 								<div class="info">
-									<p>品川区北品川1-8-11 Daiwa品川Northビル<span>東京都</span></p>
+									<p>{{site.data.data.address}}</p>
 								</div>
 							</div>
 						</div>
@@ -80,7 +77,7 @@
 			<div class="row">
 				<div class="col-lg-12">
 					<div class="copyright_text">
-						<p>著作権 &copy; 2023 <span>セレンディピティ株式会社</span></p>
+						<p>{{site.data.data.copyright}}</p>
 					</div>
 				</div>
 			</div>

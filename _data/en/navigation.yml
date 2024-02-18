@@ -10,14 +10,14 @@
     url: /services/aha_cspo
   - text: BTS Startup Workshop
     url: /services/bts
-- text: Overseas Train and Bus Reservation Services 
+- text: Overseas Train and Bus Reservation 
   url: /portfolios
   submenu:
-  - text: Travel Agency
+  - text: Group booking for Travel Agency
     url: /portfolios/travel_agency
-  - text: Individual Traveller
+  - text: Tickets for Individual Traveller
     url: /portfolios/individual_traveller
-  - text: API Integration
+  - text: Train&Bus API Integration
     url: /portfolios/api
 - text: Blog
   url: /blog
