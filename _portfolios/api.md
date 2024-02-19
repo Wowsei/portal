@@ -1,11 +1,11 @@
 ---
 layout: portfolio
-title: "OTA向け海外電車とバスの検索＆予約API統合"
+title: site.data.data.api_integration
 icon: "/assets/images/icon_3.png"
-post_image: "/assets/images/ground_transportation_cuntries.jpg"
+post_image: "/assets/images/api-integration.jpg"
 ---
 
-<h2>OTA向け海外電車とバスの検索＆予約API統合</h2>
+<h2>{{site.data.data.api_integration}}</h2>
 
 私たちは日本のオンライン旅行代理店向けにAPI統合サービスを提供しています。API統合は、旅行代理店のウェブサイトやアプリケーションに、弊社の列車・バス・フェリーの予約システムをシームレスに統合することを意味します。
 
