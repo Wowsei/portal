@@ -19,14 +19,12 @@
     url: /ja/portfolios/individual_traveller
   - text: OTA向け海外電車とバスの検索＆予約API統合
     url: /ja/portfolios/api
-- text: ブログ
-  url: /ja/blog
-  submenu:
-  - text: ブログ詳細
-    url: http://www.danielteng.com
-- text: お問い合わせ
-  url: /ja/contact
-- text: English/日本語
+# - text: ブログ
+#   url: /ja/blog
+#   submenu:
+#   - text: ブログ詳細
+#     url: http://www.danielteng.com
+# - text: English/日本語
   submenu:
   - text: English
     url: https://www.wowsei.com/

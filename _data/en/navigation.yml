@@ -19,13 +19,11 @@
     url: /portfolios/individual_traveller
   - text: Train&Bus API Integration
     url: /portfolios/api
-- text: Blog
-  url: /blog
-  submenu:
-  - text: Blogs
-    url: http://www.danielteng.com
-- text: Contact
-  url: /contact
+# - text: Blog
+#   url: /blog
+#   submenu:
+#   - text: Blogs
+#     url: http://www.danielteng.com
 - text: English/日本語
   submenu:
   - text: 日本語
