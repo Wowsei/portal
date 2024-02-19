@@ -8,11 +8,11 @@ lang: ja
 
 <h2>目覚めの認定スクラムマスターコース（Awakening CSM）</h2>
 
-製品開発は、**ディスカバリー（Discovery）**と**デリバリー（Delivery）**の二つの部分に分かれて、交互に進行します。探求とは、指数的な成長のアイデアを見つける方法や、これらの創造的なアイデアをソーシャルネットワークを利用して拡散・拡大させる方法を指します。デリバリーとは、線形的な成長を確保する方法や、アイデアを効率的に実装する方法、検証する方法、実施する方法、MVP（最小限の価値を持つ製品）を見つける方法、Scrumなどのアジャイル方法と組み合わせる方法、そして反復する方法を指します。これらは相互補完的で切り離せない二つの部分です。CSMコースでは、デリバリーの要素に重点を置きつつ、製品の持続的な革新を確保するための組織的要素も探求します。
+<p>{{site.data.data.csm_description_1}}</p>
 
 ![http://www.danielteng.com/wp-content/uploads/2018/06/discovery-delivery-1.png](http://www.danielteng.com/wp-content/uploads/2018/06/discovery-delivery-1.png)
 
-#### アジェンダ
+#### {{site.data.data.agenda}}
 
 ##### 第1日目 繰り返しとセレンディピティ
 
