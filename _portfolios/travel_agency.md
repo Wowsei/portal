@@ -7,4 +7,4 @@ post_image: "/assets/images/ground_transportation_cuntries.jpg"
 
 <h2>{{site.data.data.travel_agency_booking}}</h2>
 
-<p>{{site.data.data.travel_agency_description}}</p>
+<p>{{site.data.data.travel_agency_description_web}}</p>
