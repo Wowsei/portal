@@ -6,7 +6,7 @@ post_image: "/assets/images/services/journey.jpeg"
 lang: en
 ---
 
-<h2>BTS Startup Workshop</h2>
+<h2>{{site.data.data.bts_title}}</h2>
 
 The English name is "Break Through Starter" and the abbreviation is "BTS".
 

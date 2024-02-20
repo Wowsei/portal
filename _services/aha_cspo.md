@@ -6,7 +6,7 @@ post_image: "/assets/images/services/new_eyes_real_voyage.jpg"
 lang: en
 ---
 
-<h2>AHA Certified Scrum Product Owner Course (AHA CSPO)</h2>
+<h2>{{site.data.data.cspo_title}}</h2>
 
 There are two important parts to product development - **Discovery** and **Delivery**
 

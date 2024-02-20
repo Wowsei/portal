@@ -6,7 +6,7 @@ post_image: "/assets/images/services/recycle_experience.jpg"
 lang: ja
 ---
 
-<h2>目覚めの認定スクラムマスターコース（Awakening CSM）</h2>
+<h2>{{site.data.data.csm_title}}</h2>
 
 <p>{{site.data.data.csm_description_1}}</p>
 

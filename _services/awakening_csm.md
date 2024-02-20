@@ -6,7 +6,7 @@ post_image: "/assets/images/services/recycle_experience.jpg"
 lang: en
 ---
 
-<h2>Awakening Certified Scrum Master Course (Awakening CSM)</h2>
+<h2>{{site.data.data.csm_title}}</h2>
 
 Product development is divided into two parts: **Discovery** and **Delivery**, which proceed alternately. Exploration refers to how to find ideas for exponential growth and how to spread and scale these creative ideas using social networks. Delivery is about how to ensure linear growth, how to efficiently implement an idea, how to validate it, how to execute it, how to find an MVP (minimum value product), and agile methods such as Scrum. It refers to the method of combining and repeating. These are two complementary and inseparable parts. The CSM course focuses on the elements of delivery, while also exploring the organizational elements of ensuring sustained product innovation.
 
