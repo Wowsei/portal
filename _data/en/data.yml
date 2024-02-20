@@ -127,4 +127,45 @@ api_description_1: We provide API integration services for online travel agencie
 api_description_2: By using our API integration services, OTAs can easily and quickly provide users with local transportation reservations. Travel agencies can provide users with convenient train, bus, and ferry reservation experiences through their websites and apps, and offer more travel products.
 api_description_3: Our API integration is flexible and can be customized to meet the needs of travel agencies. We also focus on API security and stability, ensuring the privacy and information security of users.
 api_description_4: Let's leverage the power of API integration together to support the growth and success of Japanese OTAs. New possibilities for providing great travel experiences will open up.
-
+train_partners: Train&Bus Partners
+train_partners_description: We closely collaborate with major train and bus operators across Europe, Asia and North and South America.
+db_description: Deutsche Bahn (DB) is the largest railway operator in Germany, providing a comprehensive range of train services across the country. DB offers a variety of train services, including high-speed, regional, and international trains, ensuring passengers can travel comfortably and efficiently.
+db_title: Germany Federal Railways
+trenitalia_title: Trenitalia
+trenitalia_description: Trenitalia is the primary train operator in Italy, offering a wide range of train services across the country. Trenitalia provides high-speed, regional, and international train services, connecting major cities and popular tourist destinations, making it a convenient mode of transportation for tourists and business travelers.
+sbb_title: Swiss Federal Railways
+sbb_description: Swiss Federal Railways (SBB) is the national railway company of Switzerland, providing a comprehensive network of train services across the country. SBB offers a variety of train services, including high-speed, regional, and international trains, ensuring passengers can travel comfortably and efficiently.
+flixbus_title: Flixbus
+flixbus_description: Flixbus is a leading long-distance bus operator in Europe, offering affordable and convenient bus services across the continent. Flixbus provides a wide range of bus routes, connecting major cities and popular tourist destinations, making it a popular choice for travelers seeking budget-friendly transportation.
+italo_title: NTV Railways
+italo_description: NTV is a high-speed train operator in Italy, offering fast and comfortable train services across the country. Italo provides high-speed train services, connecting major cities and popular tourist destinations, making it a convenient mode of transportation for tourists and business travelers.
+sncf_title: French National Railway
+sncf_description: French National Railway (SNCF) is the national railway company of France, providing a comprehensive network of train services across the country. SNCF offers a variety of train services, including high-speed, regional, and international trains, ensuring passengers can travel comfortably and efficiently.
+renfe_title: Spanish National Railway
+renfe_description: Renfe is the national railway company of Spain, providing a comprehensive network of train services across the country. Renfe offers a variety of train services, including high-speed, regional, and international trains, ensuring passengers can travel comfortably and efficiently.
+obb_title: Austrian Federal Railways
+obb_description: Austrian Federal Railways (ÖBB) is the national railway company of Austria, providing a comprehensive network of train services across the country. ÖBB offers a variety of train services, including high-speed, regional, and international trains, ensuring passengers can travel comfortably and efficiently.
+korail_title: Korea Railroad Corporation
+korail_description: Korea Railroad Corporation (Korail) is the national railway company of South Korea, providing a comprehensive network of train services across the country. Korail offers a variety of train services, including high-speed, regional, and international trains, ensuring passengers can travel comfortably and efficiently.
+china_rail_title: China Rail
+china_rail_description_1: China Rail is the state-owned railway company of China, providing train services within China and to neighboring countries. The railway network in China is extensive, with many types of trains operating, including high-speed trains (高铁), regular trains (普速列车), and overnight trains.
+china_rail_description_2: High-speed trains in China are exceptionally fast and can connect major cities in a short amount of time. For example, trains with a "G" designation (G字头高铁) operate to shorten the distance between Beijing and Shanghai.
+national_rail_title: National Rail
+national_rail_description_1: National Rail operate a railway network spanning across the entire UK, providing train services that connect major cities and regions.
+national_rail_description_2: The UK's railway system offers abundant routes and diverse services, including long-distance trains, commuter trains, and high-speed trains.
+sweden_rail_title: Sweden Railways
+sweden_rail_description: Sweden Railways (SJ) is the national railway company of Sweden, providing a comprehensive network of train services across the country. SJ offers a variety of train services, including high-speed, regional, and international trains, ensuring passengers can travel comfortably and efficiently.
+benelux_rail_title: Benelux (Netherlands, Belgium, Luxembourg) Railway Network
+benelux_rail_description: Refers to the railway network connecting the three countries of Belgium, Netherlands, and Luxembourg. These countries are situated in Europe and are geographically close, hence integrated as BeNeLux Rail.
+vy_rail_title: Trains in Norway - VY
+vy_rail_description_1: VY (VYgruppen AS officially known) is a railway operator in Norway. VY operates a railway network spread across Norway, providing train services connecting major cities and regions.
+vy_rail_description_2: Norway is known for its beautiful natural landscapes, and with VY trains, you can visit various regions. VY trains feature comfortable and modern carriages, making them popular among tourists as a convenient and attractive mode of transportation.
+vr_rail_title: Finland Railways
+vr_rail_description: Finland Railways (VR) is the national railway company of Finland, providing a comprehensive network of train services across the country. VR offers a variety of train services, including high-speed, regional, and international trains, ensuring passengers can travel comfortably and efficiently.
+poland_rail_title: Poland Railways
+poland_rail_description_1: Poland Railways (PKP) is the national railway company of Poland, providing a comprehensive network of train services across the country. PKP offers a variety of train services, including high-speed, regional, and international trains, ensuring passengers can travel comfortably and efficiently.
+poland_rail_description_2: Poland is known for its rich history and beautiful landscapes, and with PKP trains, you can explore various regions. PKP trains feature comfortable and modern carriages, making them popular among tourists as a convenient and attractive mode of transportation.
+russia_rail_title: Russia Railways (RZD（РЖД）
+russia_rail_description_1: Russia Railways (RZD（РЖД）) is the national railway company of Russia, providing a comprehensive network of train services across the country. RZD offers a variety of train services, including high-speed, regional, and international trains, ensuring passengers can travel comfortably and efficiently.
+russia_rail_description_2: Russia is known for its vast landscapes and rich history, and with RZD trains, you can explore various regions. RZD trains feature comfortable and modern carriages, making them popular among tourists as a convenient and attractive mode of transportation.
+russia_rail_description_3: RZD trains are known for their punctuality and reliability, making them a popular choice for travelers seeking a comfortable and efficient mode of transportation.
