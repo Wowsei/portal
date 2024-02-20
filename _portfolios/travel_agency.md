@@ -1,6 +1,6 @@
 ---
 layout: portfolio
-title: site.data.data.travel_agency_booking
+title: "Group ticket booking for travel agencies"
 icon: "/assets/images/icon_1.png"
 post_image: "/assets/images/ground_transportation_cuntries.jpg"
 ---

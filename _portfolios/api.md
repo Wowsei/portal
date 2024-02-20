@@ -1,6 +1,6 @@
 ---
 layout: portfolio
-title: site.data.data.api_integration
+title: "Search & booking API integration for OTA"
 icon: "/assets/images/icon_3.png"
 post_image: "/assets/images/api-integration.jpg"
 ---

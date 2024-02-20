@@ -1,6 +1,6 @@
 ---
 layout: portfolio
-title: site.data.data.individual_traveller_booking
+title: "Tickets for individual travelers"
 icon: "/assets/images/icon_2.png"
 post_image: "/assets/images/trains.png"
 ---
