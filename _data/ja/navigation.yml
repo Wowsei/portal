@@ -26,7 +26,8 @@
 #   submenu:
 #   - text: ブログ詳細
 #     url: http://www.danielteng.com
-# - text: English/日本語
+- text: English/日本語
+  url: /ja/
   submenu:
   - text: English
     url: https://www.wowsei.com/
