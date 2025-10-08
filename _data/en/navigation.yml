@@ -19,6 +19,8 @@
     url: /portfolios/individual_traveller
   - text: Train&Bus API Integration
     url: /portfolios/api
+- text: Download App
+  url: /xmove-app
 # - text: Blog
 #   url: /blog
 #   submenu:
