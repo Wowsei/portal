@@ -5,74 +5,152 @@ icon: "/assets/images/icon_2.png"
 post_image: "/assets/images/trains.png"
 ---
 
-<h2>{{site.data.data.individual_traveller_booking}}</h2>
+<!-- Start Website section -->
+<section class="deneb_about about_v2 section_padding">
+	<div class="container">
+		<div class="row align-items-center">
+			<div class="col-lg-5">
+				<div class="deneb_img_box">
+					<img src="{{relative_url}}/assets/images/trains.png" class="img-fluid" alt="{{site.data.data.individual_traveller_booking}}">
+				</div>
+			</div>
+			<div class="col-lg-7">
+				<div class="deneb_content_box">
+					<h2>{{site.data.data.individual_traveller_booking}}</h2>
+					<h3>{{site.data.data.booking_site}}</h3>
+					<p>{{site.data.data.individual_traveller_description_web}}</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- End Website section -->
 
-### {{site.data.data.booking_app}}
+<!-- Start App section -->
+<section class="deneb_about about_v2 section_padding bg-light">
+	<div class="container">
+		<div class="row align-items-center">
+			<div class="col-lg-7">
+				<div class="deneb_content_box">
+					<h2>{{site.data.data.booking_app}}</h2>
+					<p>{{site.data.data.app_description_web}}</p>
+					
+					<div class="download_buttons">
+						<a href="{{site.data.data.app_download_google_play_url}}" target="_blank" class="deneb_btn download_btn">
+							<i class="fab fa-google-play"></i> {{site.data.data.app_download_google_play_text}}
+						</a>
+						<a href="{{site.data.data.app_download_app_store_url}}" target="_blank" class="deneb_btn download_btn">
+							<i class="fab fa-apple"></i> {{site.data.data.app_download_app_store_text}}
+						</a>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-5">
+				<div class="deneb_img_box">
+					<img src="{{relative_url}}/assets/images/xmove.png" class="img-fluid" alt="{{site.data.data.booking_app}}">
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- End App section -->
 
-<!-- <img src="{{relative_url}}/assets/images/xmove.jpg" class="img-fluid" alt="Xmove App"> -->
+<!-- Start Ultimate Guides section -->
+<section class="deneb_skill section_padding">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12">
+				<div class="section_title text-center">
+					<h2>{{site.data.data.ultimate_guides}}</h2>
+					<p>{{site.data.data.train_booking_description_1}}</p>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-lg-6">
+				<div class="guides_list">
+					<ul class="feature_list">
+						<li><i class="fas fa-train"></i> <a href="{{site.data.data.uk_rail_url}}" target="_blank">{{site.data.data.uk_rail}}</a></li>
+						<li><i class="fas fa-train"></i> <a href="{{site.data.data.de_rail_url}}" target="_blank">{{site.data.data.de_rail}}</a></li>
+						<li><i class="fas fa-train"></i> <a href="{{site.data.data.australia_rail_url}}" target="_blank">{{site.data.data.austria_rail}}</a></li>
+						<li><i class="fas fa-train"></i> <a href="{{site.data.data.italy_rail_url}}" target="_blank">{{site.data.data.italy_rail}}</a></li>
+						<li><i class="fas fa-train"></i> <a href="{{site.data.data.spain_rail_url}}" target="_blank">{{site.data.data.spain_rail}}</a></li>
+						<li><i class="fas fa-train"></i> <a href="{{site.data.data.france_rail_url}}" target="_blank">{{site.data.data.france_rail}}</a></li>
+						<li><i class="fas fa-train"></i> <a href="{{site.data.data.bene_rail_url}}" target="_blank">{{site.data.data.bene_rail}}</a></li>
+						<li><i class="fas fa-train"></i> <a href="{{site.data.data.italo_rail_url}}" target="_blank">{{site.data.data.italo_rail}}</a></li>
+						<li><i class="fas fa-bus"></i> <a href="{{site.data.data.flixbus_rail_url}}" target="_blank">{{site.data.data.flixbus_rail}}</a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="col-lg-6">
+				<div class="guides_list">
+					<ul class="feature_list">
+						<li><i class="fas fa-train"></i> <a href="{{site.data.data.poland_rail_url}}" target="_blank">{{site.data.data.poland_rail}}</a></li>
+						<li><i class="fas fa-train"></i> <a href="{{site.data.data.nsb_rail_url}}" target="_blank">{{site.data.data.nsb_rail}}</a></li>
+						<li><i class="fas fa-train"></i> <a href="{{site.data.data.rzd_rail_url}}" target="_blank">{{site.data.data.rzd_rail}}</a></li>
+						<li><i class="fas fa-train"></i> <a href="{{site.data.data.vr_rail_url}}" target="_blank">{{site.data.data.vr_rail}}</a></li>
+						<li><i class="fas fa-train"></i> <a href="{{site.data.data.sj_rail_url}}" target="_blank">{{site.data.data.sj_rail}}</a></li>
+						<li><i class="fas fa-train"></i> <a href="{{site.data.data.cr_rail_url}}" target="_blank">{{site.data.data.cr_rail}}</a></li>
+						<li><i class="fas fa-train"></i> <a href="{{site.data.data.korail_rail_url}}" target="_blank">{{site.data.data.korail_rail}}</a></li>
+						<li><i class="fas fa-train"></i> <a href="{{site.data.data.taiwan_rail_url}}" target="_blank">{{site.data.data.taiwan_rail}}</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- End Ultimate Guides section -->
 
-<p>{{site.data.data.app_description_web}}</p>
-
-<div class="download_buttons">
-	<a href="{{site.data.data.app_download_google_play_url}}" target="_blank" class="deneb_btn download_btn">
-		<i class="fab fa-google-play"></i> {{site.data.data.app_download_google_play_text}}
-	</a>
-	<a href="{{site.data.data.app_download_app_store_url}}" target="_blank" class="deneb_btn download_btn">
-		<i class="fab fa-apple"></i> {{site.data.data.app_download_app_store_text}}
-	</a>
-</div>
-
-### {{site.data.data.booking_site}}
-
-<p>{{site.data.data.individual_traveller_description_web}}</p>
-
-### {{site.data.data.ultimate_guides}}
-
-* [{{site.data.data.uk_rail}}]({{site.data.data.uk_rail_url}})
-* [{{site.data.data.de_rail}}]({{site.data.data.de_rail_url}})
-* [{{site.data.data.austria_rail}}]({{site.data.data.australia_rail_url}})
-* [{{site.data.data.italy_rail}}]({{site.data.data.italy_rail_url}})
-* [{{site.data.data.spain_rail}}]({{site.data.data.spain_rail_url}})
-* [{{site.data.data.france_rail}}]({{site.data.data.france_rail_url}})
-* [{{site.data.data.bene_rail}}]({{site.data.data.bene_rail_url}})
-* [{{site.data.data.italo_rail}}]({{site.data.data.italo_rail_url}})
-* [{{site.data.data.italo_rail}}]({{site.data.data.flixbus_rail_url}})
-* [{{site.data.data.poland_rail}}]({{site.data.data.poland_rail_url}})
-* [{{site.data.data.nsb_rail}}]({{site.data.data.nsb_rail_url}})
-* [{{site.data.data.rzd_rail}}]({{site.data.data.rzd_rail_url}})
-* [{{site.data.data.vr_rail}}]({{site.data.data.vr_rail_url}})
-* [{{site.data.data.sj_rail}}]({{site.data.data.sj_rail_url}})
-* [{{site.data.data.cr_rail}}]({{site.data.data.cr_rail_url}})
-* [{{site.data.data.korail_rail}}]({{site.data.data.korail_rail_url}})
-* [{{site.data.data.taiwan_rail}}]({{site.data.data.taiwan_rail_url}})
-
-### {{site.data.data.station_guides}}
-
-#### {{site.data.data.europe}}
-
-##### {{site.data.data.germany_stations}}
-
-* [{{site.data.data.berlin_station}}]({{site.data.data.berlin_station_url}})
-* [{{site.data.data.frankfurt_station}}]({{site.data.data.frankfurt_station_url}})
-* [{{site.data.data.frankfurt_airport_station}}]({{site.data.data.frankfurt_airport_station_url}})
-* [{{site.data.data.hamburg_station}}]({{site.data.data.hamburg_station_url}})
-* [{{site.data.data.munich_station}}]({{site.data.data.munich_station_url}})
-* [{{site.data.data.hannover_station}}]({{site.data.data.hannover_station_url}})
-* [{{site.data.data.koln_station}}]({{site.data.data.koln_station_url}})
-
-##### {{site.data.data.italy_stations}}
-
-* [{{site.data.data.roma_termini}}]({{site.data.data.frankfurt_sroma_termini_urltation}})
-* [{{site.data.data.napoli_c}}]({{site.data.data.napoli_c_url}})
-* [{{site.data.data.roma_airport}}]({{site.data.data.roma_airport_url}})
-* [{{site.data.data.torino_station}}]({{site.data.data.torino_station_url}})
-* [{{site.data.data.pisa_c}}]({{site.data.data.pisa_c_url}})
-* [{{site.data.data.milano_c}}]({{site.data.data.milano_c_url}})
-* [{{site.data.data.venice_station}}]({{site.data.data.venice_station_url}})
-* [{{site.data.data.florence_station}}]({{site.data.data.florence_station_url}})
-* [{{site.data.data.malpensa_airport}}]({{site.data.data.malpensa_airport_url}})
+<!-- Start Station Guides section -->
+<section class="deneb_skill section_padding bg-light">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12">
+				<div class="section_title text-center">
+					<h2>{{site.data.data.station_guides}}</h2>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-lg-6">
+				<div class="station_guides_list">
+					<h4><i class="fas fa-globe-europe"></i> {{site.data.data.europe}}</h4>
+					
+					<h5><i class="fas fa-map-marker-alt"></i> {{site.data.data.germany_stations}}</h5>
+					<ul class="station_list">
+						<li><i class="fas fa-check"></i> <a href="{{site.data.data.berlin_station_url}}" target="_blank">{{site.data.data.berlin_station}}</a></li>
+						<li><i class="fas fa-check"></i> <a href="{{site.data.data.frankfurt_station_url}}" target="_blank">{{site.data.data.frankfurt_station}}</a></li>
+						<li><i class="fas fa-check"></i> <a href="{{site.data.data.frankfurt_airport_station_url}}" target="_blank">{{site.data.data.frankfurt_airport_station}}</a></li>
+						<li><i class="fas fa-check"></i> <a href="{{site.data.data.hamburg_station_url}}" target="_blank">{{site.data.data.hamburg_station}}</a></li>
+						<li><i class="fas fa-check"></i> <a href="{{site.data.data.munich_station_url}}" target="_blank">{{site.data.data.munich_station}}</a></li>
+						<li><i class="fas fa-check"></i> <a href="{{site.data.data.hannover_station_url}}" target="_blank">{{site.data.data.hannover_station}}</a></li>
+						<li><i class="fas fa-check"></i> <a href="{{site.data.data.koln_station_url}}" target="_blank">{{site.data.data.koln_station}}</a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="col-lg-6">
+				<div class="station_guides_list">
+					<h5><i class="fas fa-map-marker-alt"></i> {{site.data.data.italy_stations}}</h5>
+					<ul class="station_list">
+						<li><i class="fas fa-check"></i> <a href="{{site.data.data.frankfurt_sroma_termini_urltation}}" target="_blank">{{site.data.data.roma_termini}}</a></li>
+						<li><i class="fas fa-check"></i> <a href="{{site.data.data.napoli_c_url}}" target="_blank">{{site.data.data.napoli_c}}</a></li>
+						<li><i class="fas fa-check"></i> <a href="{{site.data.data.roma_airport_url}}" target="_blank">{{site.data.data.roma_airport}}</a></li>
+						<li><i class="fas fa-check"></i> <a href="{{site.data.data.torino_station_url}}" target="_blank">{{site.data.data.torino_station}}</a></li>
+						<li><i class="fas fa-check"></i> <a href="{{site.data.data.pisa_c_url}}" target="_blank">{{site.data.data.pisa_c}}</a></li>
+						<li><i class="fas fa-check"></i> <a href="{{site.data.data.milano_c_url}}" target="_blank">{{site.data.data.milano_c}}</a></li>
+						<li><i class="fas fa-check"></i> <a href="{{site.data.data.venice_station_url}}" target="_blank">{{site.data.data.venice_station}}</a></li>
+						<li><i class="fas fa-check"></i> <a href="{{site.data.data.florence_station_url}}" target="_blank">{{site.data.data.florence_station}}</a></li>
+						<li><i class="fas fa-check"></i> <a href="{{site.data.data.malpensa_airport_url}}" target="_blank">{{site.data.data.malpensa_airport}}</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- End Station Guides section -->
 
 <style>
+/* Download buttons styling */
 .download_buttons {
 	margin-top: 30px;
 	display: flex;
@@ -88,13 +166,118 @@ post_image: "/assets/images/trains.png"
 	text-decoration: none;
 	border-radius: 5px;
 	transition: all 0.3s ease;
+	background: #6c5ce7;
+	color: white;
 }
 
 .download_btn:hover {
 	transform: translateY(-2px);
-	box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+	box-shadow: 0 5px 15px rgba(108, 92, 231, 0.4);
+	color: white;
 }
 
+/* Guides list styling */
+.guides_list {
+	margin-bottom: 30px;
+}
+
+.guides_list .feature_list {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+.guides_list .feature_list li {
+	padding: 10px 0;
+	display: flex;
+	align-items: center;
+	border-bottom: 1px solid #eee;
+}
+
+.guides_list .feature_list i {
+	color: #6c5ce7;
+	margin-right: 12px;
+	font-size: 18px;
+	width: 24px;
+}
+
+.guides_list .feature_list a {
+	color: #333;
+	text-decoration: none;
+	transition: color 0.3s ease;
+}
+
+.guides_list .feature_list a:hover {
+	color: #6c5ce7;
+}
+
+/* Station guides styling */
+.station_guides_list {
+	margin-bottom: 30px;
+}
+
+.station_guides_list h4 {
+	color: #6c5ce7;
+	margin-bottom: 25px;
+	font-size: 24px;
+	font-weight: 600;
+}
+
+.station_guides_list h4 i {
+	margin-right: 10px;
+}
+
+.station_guides_list h5 {
+	color: #333;
+	margin-top: 20px;
+	margin-bottom: 15px;
+	font-size: 18px;
+	font-weight: 600;
+}
+
+.station_guides_list h5 i {
+	color: #6c5ce7;
+	margin-right: 8px;
+}
+
+.station_list {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+.station_list li {
+	padding: 8px 0;
+	display: flex;
+	align-items: center;
+}
+
+.station_list i {
+	color: #6c5ce7;
+	margin-right: 10px;
+	font-size: 14px;
+}
+
+.station_list a {
+	color: #555;
+	text-decoration: none;
+	transition: color 0.3s ease;
+}
+
+.station_list a:hover {
+	color: #6c5ce7;
+}
+
+/* Section styling */
+.section_padding {
+	padding: 100px 0;
+}
+
+.bg-light {
+	background-color: #f8f9fa;
+}
+
+/* Responsive design */
 @media (max-width: 768px) {
 	.download_buttons {
 		flex-direction: column;
@@ -102,7 +285,11 @@ post_image: "/assets/images/trains.png"
 	
 	.download_btn {
 		justify-content: center;
+		width: 100%;
+	}
+	
+	.section_padding {
+		padding: 60px 0;
 	}
 }
 </style>
-
