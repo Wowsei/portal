@@ -5,29 +5,8 @@ icon: "/assets/images/icon_2.png"
 post_image: "/assets/images/trains.png"
 ---
 
-<!-- Start Website section -->
-<section class="deneb_about about_v2 section_padding">
-	<div class="container">
-		<div class="row align-items-center">
-			<div class="col-lg-5">
-				<div class="deneb_img_box">
-					<img src="{{relative_url}}/assets/images/trains.png" class="img-fluid" alt="{{site.data.data.individual_traveller_booking}}">
-				</div>
-			</div>
-			<div class="col-lg-7">
-				<div class="deneb_content_box">
-					<h2>{{site.data.data.individual_traveller_booking}}</h2>
-					<h3>{{site.data.data.booking_site}}</h3>
-					<p>{{site.data.data.individual_traveller_description_web}}</p>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-<!-- End Website section -->
-
 <!-- Start App section -->
-<section class="deneb_about about_v2 section_padding bg-light">
+<section class="deneb_about about_v2 section_padding">
 	<div class="container">
 		<div class="row align-items-center">
 			<div class="col-lg-7">
@@ -54,6 +33,27 @@ post_image: "/assets/images/trains.png"
 	</div>
 </section>
 <!-- End App section -->
+
+<!-- Start Website section -->
+<section class="deneb_about about_v2 section_padding bg-light">
+	<div class="container">
+		<div class="row align-items-center">
+			<div class="col-lg-5">
+				<div class="deneb_img_box">
+					<img src="{{relative_url}}/assets/images/trains.png" class="img-fluid" alt="{{site.data.data.individual_traveller_booking}}">
+				</div>
+			</div>
+			<div class="col-lg-7">
+				<div class="deneb_content_box">
+					<h2>{{site.data.data.individual_traveller_booking}}</h2>
+					<h3>{{site.data.data.booking_site}}</h3>
+					<p>{{site.data.data.individual_traveller_description_web}}</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- End Website section -->
 
 <!-- Start Ultimate Guides section -->
 <section class="deneb_skill section_padding">
