@@ -153,7 +153,7 @@ icon: "/assets/images/icon_2.png"
 .download_buttons {
 	margin-top: 30px;
 	display: flex;
-	gap: 15px;
+	gap: 12px;
 	flex-wrap: wrap;
 }
 
@@ -161,25 +161,27 @@ icon: "/assets/images/icon_2.png"
 	display: inline-flex !important;
 	align-items: center;
 	justify-content: center;
-	gap: 10px;
-	padding: 14px 28px !important;
+	gap: 8px;
+	padding: 10px 20px !important;
 	text-decoration: none;
 	border-radius: 23px !important;
 	transition: all 0.3s ease;
 	background: #6c5ce7 !important;
 	color: white !important;
 	font-weight: 500 !important;
-	min-width: 200px !important;
+	min-width: auto !important;
+	max-width: 100%;
 	height: auto !important;
 	line-height: normal !important;
 	border: none;
 	text-transform: none !important;
 	letter-spacing: normal !important;
-	font-size: 15px !important;
+	font-size: 14px !important;
+	flex: 1 1 auto;
 }
 
 .download_buttons .deneb_btn.download_btn i {
-	font-size: 20px;
+	font-size: 18px;
 	margin-right: 0;
 }
 
