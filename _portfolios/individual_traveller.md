@@ -2,7 +2,6 @@
 layout: portfolio
 title: "Tickets for individual travelers"
 icon: "/assets/images/icon_2.png"
-post_image: "/assets/images/trains.png"
 ---
 
 <!-- Start App section -->
