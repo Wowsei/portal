@@ -7,10 +7,6 @@ post_image: "/assets/images/trains.png"
 
 <h2>{{site.data.data.individual_traveller_booking}}</h2>
 
-### {{site.data.data.booking_site}}
-
-<p>{{site.data.data.individual_traveller_description_web}}</p>
-
 ### {{site.data.data.booking_app}}
 
 <!-- <img src="{{relative_url}}/assets/images/xmove.jpg" class="img-fluid" alt="Xmove App"> -->
@@ -26,6 +22,9 @@ post_image: "/assets/images/trains.png"
 	</a>
 </div>
 
+### {{site.data.data.booking_site}}
+
+<p>{{site.data.data.individual_traveller_description_web}}</p>
 
 ### {{site.data.data.ultimate_guides}}
 

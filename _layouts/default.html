@@ -7,7 +7,7 @@
 	    <meta name="description" content="{{site.description[site.active_lang]}}">
 	    <meta name="viewport" content="width=device-width, initial-scale=1">
 	    <!-- page title -->
-		<title>{% if page.title %} {{ page.title }} {% else %} {{ site.data.data.title }} {% endif %}</title>
+		<title>{% if page.url contains 'individual_traveller' %} {{ site.data.data.individual_traveller_booking }} {% elsif page.url contains 'travel_agency' %} {{ site.data.data.travel_agency_booking }} {% elsif page.url contains '/portfolios/api' %} {{ site.data.data.api_integration }} {% elsif page.title %} {{ page.title }} {% else %} {{ site.data.data.title }} {% endif %}</title>
 		<!-- Favicon Icon -->
     	<link rel="shortcut icon" href="{{relative_url}}/assets/images/favicon.ico" type="image/png">
 		<!-- All css -->
