@@ -13,9 +13,18 @@ post_image: "/assets/images/trains.png"
 
 ### {{site.data.data.booking_app}}
 
-<img src="{{relative_url}}/assets/images/xmove.jpg" class="img-fluid" alt="Xmove App">
+<!-- <img src="{{relative_url}}/assets/images/xmove.jpg" class="img-fluid" alt="Xmove App"> -->
 
 <p>{{site.data.data.app_description_web}}</p>
+
+<div class="download_buttons">
+	<a href="{{site.data.data.app_download_google_play_url}}" target="_blank" class="deneb_btn download_btn">
+		<i class="fab fa-google-play"></i> {{site.data.data.app_download_google_play_text}}
+	</a>
+	<a href="{{site.data.data.app_download_app_store_url}}" target="_blank" class="deneb_btn download_btn">
+		<i class="fab fa-apple"></i> {{site.data.data.app_download_app_store_text}}
+	</a>
+</div>
 
 
 ### {{site.data.data.ultimate_guides}}
@@ -64,4 +73,37 @@ post_image: "/assets/images/trains.png"
 * [{{site.data.data.florence_station}}]({{site.data.data.florence_station_url}})
 * [{{site.data.data.malpensa_airport}}]({{site.data.data.malpensa_airport_url}})
 
+<style>
+.download_buttons {
+	margin-top: 30px;
+	display: flex;
+	gap: 15px;
+	flex-wrap: wrap;
+}
+
+.download_btn {
+	display: inline-flex;
+	align-items: center;
+	gap: 8px;
+	padding: 12px 24px;
+	text-decoration: none;
+	border-radius: 5px;
+	transition: all 0.3s ease;
+}
+
+.download_btn:hover {
+	transform: translateY(-2px);
+	box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+}
+
+@media (max-width: 768px) {
+	.download_buttons {
+		flex-direction: column;
+	}
+	
+	.download_btn {
+		justify-content: center;
+	}
+}
+</style>
 
