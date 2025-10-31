@@ -157,33 +157,37 @@ icon: "/assets/images/icon_2.png"
 	flex-wrap: wrap;
 }
 
-.download_btn {
-	display: inline-flex;
+.download_buttons .deneb_btn.download_btn {
+	display: inline-flex !important;
 	align-items: center;
 	justify-content: center;
 	gap: 10px;
-	padding: 14px 28px;
+	padding: 14px 28px !important;
 	text-decoration: none;
-	border-radius: 23px;
+	border-radius: 23px !important;
 	transition: all 0.3s ease;
-	background: #6c5ce7;
+	background: #6c5ce7 !important;
 	color: white !important;
-	font-weight: 500;
-	min-width: 200px;
+	font-weight: 500 !important;
+	min-width: 200px !important;
+	height: auto !important;
+	line-height: normal !important;
 	border: none;
-	text-transform: none;
-	letter-spacing: normal;
+	text-transform: none !important;
+	letter-spacing: normal !important;
+	font-size: 15px !important;
 }
 
-.download_btn i {
+.download_buttons .deneb_btn.download_btn i {
 	font-size: 20px;
+	margin-right: 0;
 }
 
-.download_btn:hover {
+.download_buttons .deneb_btn.download_btn:hover {
 	transform: translateY(-2px);
-	box-shadow: 2.5px 4.33px 15px 0px rgba(108, 92, 231, 0.4);
+	box-shadow: 2.5px 4.33px 15px 0px rgba(108, 92, 231, 0.4) !important;
 	color: white !important;
-	background: #5a4dd6;
+	background: #5a4dd6 !important;
 }
 
 /* Guides list styling */
