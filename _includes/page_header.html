@@ -10,6 +10,8 @@
 						<h1>{{site.data.data.travel_agency_booking}}</h1>
 					{% elsif page.url contains '/portfolios/api' %}
 						<h1>{{site.data.data.api_integration}}</h1>
+					{% elsif page.url == '/portfolios/' or page.url == '/portfolios' or page.url == '/ja/portfolios/' or page.url == '/ja/portfolios' %}
+						<h1>{{site.data.data.train_busines_title}}</h1>
 					{% else %}
 						<h1>{{page.title}}</h1>
 					{% endif %}
@@ -21,6 +23,8 @@
 							<li>{{site.data.data.travel_agency_booking}}</li>
 						{% elsif page.url contains '/portfolios/api' %}
 							<li>{{site.data.data.api_integration}}</li>
+						{% elsif page.url == '/portfolios/' or page.url == '/portfolios' or page.url == '/ja/portfolios/' or page.url == '/ja/portfolios' %}
+							<li>{{site.data.data.train_busines_title}}</li>
 						{% else %}
 							<li>{{page.title}}</li>
 						{% endif %}
