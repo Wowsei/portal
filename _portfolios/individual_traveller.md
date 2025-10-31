@@ -160,19 +160,30 @@ icon: "/assets/images/icon_2.png"
 .download_btn {
 	display: inline-flex;
 	align-items: center;
-	gap: 8px;
-	padding: 12px 24px;
+	justify-content: center;
+	gap: 10px;
+	padding: 14px 28px;
 	text-decoration: none;
-	border-radius: 5px;
+	border-radius: 23px;
 	transition: all 0.3s ease;
 	background: #6c5ce7;
-	color: white;
+	color: white !important;
+	font-weight: 500;
+	min-width: 200px;
+	border: none;
+	text-transform: none;
+	letter-spacing: normal;
+}
+
+.download_btn i {
+	font-size: 20px;
 }
 
 .download_btn:hover {
 	transform: translateY(-2px);
-	box-shadow: 0 5px 15px rgba(108, 92, 231, 0.4);
-	color: white;
+	box-shadow: 2.5px 4.33px 15px 0px rgba(108, 92, 231, 0.4);
+	color: white !important;
+	background: #5a4dd6;
 }
 
 /* Guides list styling */
